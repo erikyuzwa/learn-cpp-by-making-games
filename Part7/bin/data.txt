@@ -1,0 +1,2 @@
+This is another way  to input 
+text in a more streaming fashion. 
